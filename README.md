@@ -7,17 +7,6 @@ Sprague-Dawley rats (3 LSD, 4 saline), 24 hours after administration of 0.2 mg/k
 LSD or saline (vehicle). During recording, electrical stimulation was delivered
 to the basolateral amygdala (BLA).
 
-## Layout
-
-This is a BIDS *study* dataset:
-
-- `sourcedata/` — raw BIDS dataset. Raw electrophysiology (AP 30 kHz, LFP 2.5 kHz)
-  and NIDQ auxiliary channels with stimulation triggers, per subject, as NWB, with
-  BIDS/BEP032 sidecars (probes, channels, electrodes, coordinate system).
-- `derivatives/kilosort4-4.1.3/` — Kilosort4 spike sorting (subject NP06).
-- `derivatives/bombcell-0.72/` — bombcell unit quality metrics (subject NP06).
-- `dandiset.yaml` — DANDI Archive metadata (ignored by the BIDS validator via `.bidsignore`).
-
 ## Coordinates
 
 Electrode coordinates use the Paxinos & Watson atlas in standard stereotaxic
