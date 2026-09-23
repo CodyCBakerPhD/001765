@@ -1,3 +1,0 @@
-{
-  "Description": "Kilosort4 (4.1.3) spike sorting of the Neuropixels AP-band recording for sub-NP06, run on stimulation-artifact-blanked data with common average referencing disabled (do_CAR=False)."
-}
