@@ -3,5 +3,10 @@
     "PowerLineFrequency": "n/a",
     "SamplingFrequency": -1.0,
     "SoftwareFilters": "n/a",
-    "HardwareFilters": "n/a"
+    "HardwareFilters": "n/a",
+    "Manufacturer": "imec",
+    "RecordingDuration": 8761.299,
+    "RecordingType": "continuous",
+    "BodyPart": "BRAIN",
+    "BodyPartDetails": "medial prefrontal cortex"
 }

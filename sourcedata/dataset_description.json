@@ -16,5 +16,10 @@
             "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
             "CodeURL": "https://github.com/con/nwb2bids"
         }
+    ],
+    "SourceDatasets": [
+        {
+            "URL": "https://dandiarchive.org/dandiset/001765"
+        }
     ]
 }
