@@ -2,6 +2,10 @@
   "Name": "Kilosort4 4.1.3 spike sorting (blanked, do_CAR=False)",
   "BIDSVersion": "1.10.0",
   "DatasetType": "derivative",
+  "Authors": [
+    "Dwiel, Lucas",
+    "Doucette, Wilder"
+  ],
   "GeneratedBy": [
     {
       "Name": "Kilosort",

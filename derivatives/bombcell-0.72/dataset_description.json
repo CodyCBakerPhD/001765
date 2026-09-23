@@ -2,6 +2,10 @@
   "Name": "bombcell 0.72 unit quality metrics",
   "BIDSVersion": "1.10.0",
   "DatasetType": "derivative",
+  "Authors": [
+    "Dwiel, Lucas",
+    "Doucette, Wilder"
+  ],
   "GeneratedBy": [
     {
       "Name": "bombcell",

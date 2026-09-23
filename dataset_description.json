@@ -1,0 +1,12 @@
+{
+    "Name": "Neuropixels recordings in anesthetized rats (saline vs. LSD) with intracranial electrical stimulation",
+    "BIDSVersion": "1.10.1",
+    "HEDVersion": "8.3.0",
+    "DatasetType": "study",
+    "Description": "Neuropixels 1.0 recordings from medial prefrontal cortex in seven anesthetized Sprague-Dawley rats (3 LSD, 4 saline), 24 hours after administration of 0.2 mg/kg LSD or saline (vehicle), with electrical stimulation delivered to the basolateral amygdala (BLA). Raw data are provided under sourcedata/; Kilosort4 spike sorting and bombcell quality metrics are provided under derivatives/.",
+    "Authors": [
+        "Dwiel, Lucas",
+        "Doucette, Wilder"
+    ],
+    "License": "CC-BY-4.0"
+}

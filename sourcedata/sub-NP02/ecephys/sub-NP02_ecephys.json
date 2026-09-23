@@ -1,7 +1,12 @@
 {
     "InstitutionName": "Dartmouth College",
     "PowerLineFrequency": "n/a",
-    "SamplingFrequency": -1.0,
+    "SamplingFrequency": 30000.0,
     "SoftwareFilters": "n/a",
-    "HardwareFilters": "n/a"
+    "HardwareFilters": "n/a",
+    "Manufacturer": "imec",
+    "RecordingDuration": 7759.611,
+    "RecordingType": "continuous",
+    "BodyPart": "BRAIN",
+    "BodyPartDetails": "medial prefrontal cortex: anterior cingulate (Cg1), prelimbic (PrL), infralimbic (IL), medial orbital (MO)"
 }
