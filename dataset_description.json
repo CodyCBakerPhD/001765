@@ -8,19 +8,5 @@
         "Dwiel, Lucas",
         "Doucette, Wilder"
     ],
-    "License": "CC-BY-4.0",
-    "GeneratedBy": [
-        {
-            "Name": "Manual",
-            "Description": "Study-level dataset description assembled from the DANDI Archive metadata (dandiset.yaml) for DANDI:001765."
-        }
-    ],
-    "SourceDatasets": [
-        {
-            "URL": "bids:sourcedata:"
-        },
-        {
-            "URL": "https://dandiarchive.org/dandiset/001765"
-        }
-    ]
+    "License": "CC-BY-4.0"
 }
