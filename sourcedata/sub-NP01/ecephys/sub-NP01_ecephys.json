@@ -1,7 +1,7 @@
 {
     "InstitutionName": "Dartmouth College",
     "PowerLineFrequency": "n/a",
-    "SamplingFrequency": -1.0,
+    "SamplingFrequency": 30000.0,
     "SoftwareFilters": "n/a",
     "HardwareFilters": "n/a",
     "Manufacturer": "imec",
