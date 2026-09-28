@@ -1,0 +1,12 @@
+{
+    "Name": "Neuropixels recordings in anesthetized rats (saline/LSD) with electrical stimulation",
+    "BIDSVersion": "1.10.1",
+    "HEDVersion": "8.3.0",
+    "DatasetType": "study",
+    "Description": "Neuropixels 1.0 recordings from medial prefrontal cortex of anesthetized Sprague-Dawley rats with electrical stimulation in BLA, 24 hours after 0.2 mg/kg LSD or saline (vehicle). This study dataset collects the raw recordings (sourcedata/) together with the spike-sorting and unit-quality derivatives generated from them (derivatives/).",
+    "Authors": [
+        "Dwiel, Lucas",
+        "Doucette, Wilder"
+    ],
+    "License": "CC-BY-4.0"
+}

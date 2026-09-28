@@ -17,6 +17,7 @@
     },
     "sampling_frequency": {
         "LongName": "Sampling frequency",
-        "Description": "Sampling rate of the channel in Hz."
+        "Description": "Sampling rate of the channel in Hz.",
+        "Format": "number"
     }
 }
