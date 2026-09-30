@@ -19,16 +19,16 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique:
+  - name: multi electrode extracellular electrophysiology recording technique
+    schemaKey: MeasurementTechniqueType
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
   - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
-  - name: surgical technique
-    schemaKey: MeasurementTechniqueType
-  - name: multi electrode extracellular electrophysiology recording technique
-    schemaKey: MeasurementTechniqueType
-  numberOfBytes: 954842477885
-  numberOfFiles: 71
+  numberOfBytes: 954842497028
+  numberOfFiles: 69
   numberOfSubjects: 7
   schemaKey: AssetsSummary
   species:
@@ -36,10 +36,10 @@ assetsSummary:
     name: Rattus norvegicus - Norway rat
     schemaKey: SpeciesType
   variableMeasured:
-  - ProcessingModule
   - ElectrodeGroup
-  - Units
   - ElectricalSeries
+  - ProcessingModule
+  - Units
 citation: Neuropixels recordings in anesthetized rats (saline vs. LSD) with intracranial
   electrical stimulation (2026). (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001765/draft
 contributor:

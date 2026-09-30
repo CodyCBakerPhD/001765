@@ -1,6 +1,6 @@
 {
   "Name": "bombcell 0.72 unit quality metrics",
-  "BIDSVersion": "1.10.0",
+  "BIDSVersion": "1.10.1",
   "DatasetType": "derivative",
   "Authors": [
     "Dwiel, Lucas",

@@ -1,6 +1,7 @@
 # bombcell 0.72 unit quality metrics
 
-Derivative of `derivatives/kilosort4-4.1.3` in DANDI:001765.
+Part of DANDI:001765 (https://dandiarchive.org/dandiset/001765).
 
-bombcell (0.72) unit quality metrics for the sub-NP06 Kilosort4 units, stored as NWB
-(`sub-NP06/ses-20250910/sub-NP06_ses-20250910_ecephys.nwb`).
+Per-unit quality metrics and classification (GOOD / MUA / NON-SOMA / NOISE) computed with bombcell 0.72.
+
+Source dataset: `derivatives/kilosort4-4.1.3`.

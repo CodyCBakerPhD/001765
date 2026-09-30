@@ -1,7 +1,7 @@
-# Kilosort4 4.1.3 spike sorting
+# Kilosort4 4.1.3 spike sorting (blanked, do_CAR=False)
 
-Derivative of the raw dataset in `sourcedata/` of DANDI:001765.
+Part of DANDI:001765 (https://dandiarchive.org/dandiset/001765).
 
-Spike sorting of the sub-NP06 Neuropixels AP-band recording with Kilosort4 (4.1.3). Sorting was run
-on stimulation-artifact-blanked data with common average referencing disabled (`do_CAR=False`).
-Results are stored as NWB in `sub-NP06/ses-20250910/`.
+Spike sorting of the raw Neuropixels AP band with Kilosort4 4.1.3, run on the artifact-blanked signal with do_CAR=False.
+
+Source dataset: `sourcedata`.
